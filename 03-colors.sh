@@ -14,4 +14,4 @@ echo -e "\e[44;32m This is informational \e[0m"
 
 ps aux --sort=-%cpu | head 
 
-lsof -i :8080
+lsof -i:8080
