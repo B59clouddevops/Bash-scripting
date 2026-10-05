@@ -8,4 +8,4 @@ content () {
 
 echo "Calling the function"
 sleep 3
-content 10 20 30
+content 10
