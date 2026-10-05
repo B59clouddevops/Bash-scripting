@@ -17,7 +17,7 @@ content 10 20 30
 table() {
 for i in {1..10}
 do
-    echo " $((3 * i))"
+    echo " 3 * $i $((3 * i))"
 done
 }
 
