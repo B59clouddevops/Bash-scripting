@@ -2,6 +2,9 @@
 
 content () {
     echo "This is a number $1"
+    echo "This is a number $2"
+    echo "This is a number $3"
+
     echo "Number of arguments passed is $#"
     echo "Arguments used in the script is $@"
 }
