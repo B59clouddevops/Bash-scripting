@@ -1,5 +1,5 @@
-#!/bin/bash
+#!/bin/bash 
 
-echo -e read -p "Enter the name of the person: $Name"
+read -p "Enter the name of the person:" $Name
 
-echo -e "The name of the person is : $Name"
+echo -e "The name of the person is $Name"
