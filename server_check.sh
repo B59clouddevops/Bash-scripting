@@ -16,3 +16,6 @@ if [ "$choice" = "yes" ]; then
 else
     echo "Warning: Operation cancelled"
 fi
+
+name = Pavan
+echo "print $name"
