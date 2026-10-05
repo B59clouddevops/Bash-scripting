@@ -17,5 +17,5 @@ else
     echo "Warning: Operation cancelled"
 fi
 
-name = Pavan
+name=Pavan
 echo "print $name"
