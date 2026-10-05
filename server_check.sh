@@ -19,3 +19,4 @@ fi
 
 name=Pavan
 echo "print $name"
+echo "$?"
