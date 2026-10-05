@@ -11,4 +11,4 @@ content () {
 
 echo "Calling the function"
 sleep 3
-content 10
+content 10 20 30
