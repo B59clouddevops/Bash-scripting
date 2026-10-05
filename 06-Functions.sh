@@ -5,3 +5,7 @@ content () {
     echo "Number of arguments passed is $#"
     echo "Arguments used in the script is $@"
 }
+
+echo "Calling the function"
+sleep 3
+content
