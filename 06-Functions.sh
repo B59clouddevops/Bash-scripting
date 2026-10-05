@@ -11,14 +11,4 @@ content () {
 
 echo "Calling the function"
 sleep 3
-content 10 20 30
-
-
-table() {
-for i in {1..10}
-do
-    echo " 3 * $i = $((3 * i))"
-done
-}
-
-table
+content $1 $2 $3
